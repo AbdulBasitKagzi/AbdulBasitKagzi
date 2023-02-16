@@ -1,7 +1,6 @@
 Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kagzi AbdulBasit!
-- 👋 Hi, I’m @AbdulBasitKagzi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I keep on learning new stuff.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
