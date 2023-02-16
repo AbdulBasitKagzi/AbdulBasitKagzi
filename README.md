@@ -3,6 +3,8 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 - 🌱 I keep on learning new stuff.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
+- <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
 
 <!---
 AbdulBasitKagzi/AbdulBasitKagzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
