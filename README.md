@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdulBasitKagzi](https://github.com/AbdulBasitKagzi)
 
-- 💬 Ask me about **react, javascript, redux, html, css**
+- 💬 Ask me about **react, javascript, redux, html, css, react native**
 
 - 📫 How to reach me **imabk10@gmail.com**
 
